@@ -1,0 +1,114 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  background-color: #000000;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+body h1{
+  color: darkred;
+  padding: 2% 0 2% 0;
+}
+
+body h3{
+  color: darkred;
+  padding: 2% 0 2% 0;
+}
+
+#form {
+  margin-top: 5%;
+}
+
+#form input[type="text"]{
+  background: black;
+  color: white;
+}
+
+#form input[type="text"]:hover{
+  background: black;
+  color: white;
+}
+
+.input-group {
+  border: 1px solid darkred;
+}
+.input-group-prepend .input-group-text{
+  background: black;
+  color: white;
+}
+
+.container-fluid {
+  margin-top: 5%;
+}
+
+.btn {
+  background-color: darkred;
+  color: white;
+  width: 100%;
+  margin-top: 7%;
+}
+
+.btn:hover {
+  background-color: darkred;
+  color: gainsboro;
+}
+
+#box-right {
+  text-align: center;
+  border-left-width: medium;
+  border-left-style: solid;
+  border-left-color: darkred;
+}
+
+.custom-select {
+  background: black;
+  color: white;
+}
+
+.check {
+  padding-top: 1%;
+}
+
+#result {
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  margin-top: 16%;
+}
+
+#result table{
+  border:1px solid darkred;
+}
+
+#result table th {
+  background: darkred;
+  border: darkred;
+}
+
+#result table td {
+  background: black;
+}
+
+#voltar {
+  margin: 0;
+  padding: 0;
+}
+
+.btn-link {
+  color: red;
+}
+
+.btn-link:hover {
+  color: white;
+}
+
+.btn-link:active {
+  color: red;
+}
+
+
